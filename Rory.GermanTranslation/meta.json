@@ -2,6 +2,6 @@
   "id": "rory.detrans",
   "name": "German Translation",
   "authors": "rory",
-  "description": "Just a german description!\nEinfache Deutsche ‹bersetzung!\nSoweit, wie ich weiﬂ. Sind Unicodes (Also UE, OE und AE) nicht unterst¸tzt. Oh well.",
-  "devMode": true
+  "description": "Just a german description!\nEinfache Deutsche √úbersetzung!\nSoweit, wie ich wei√ü. Sind Unicodes (Also UE, OE und AE) nicht unterst√ºtzt. Oh well.",
+  "devMode": false
 }
