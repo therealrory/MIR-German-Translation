@@ -1,0 +1,7 @@
+{
+  "id": "rory.detrans",
+  "name": "German Translation",
+  "authors": "rory",
+  "description": "Just a german description!\nEinfache Deutsche Übersetzung!\nSoweit, wie ich weiß. Sind Unicodes (Also UE, OE und AE) nicht unterstützt. Oh well.",
+  "devMode": true
+}
